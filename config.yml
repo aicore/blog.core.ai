@@ -1,0 +1,5 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: core.ai tech blogs
+theme: "PaperMod"
+publishDir: "docs"

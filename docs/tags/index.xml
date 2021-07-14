@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on core.ai tech blogs</title>
+    <link>https://dhruvpeter.github.io/blogs.core.ai/tags/</link>
+    <description>Recent content in Tags on core.ai tech blogs</description>
+    <image>
+      <url>https://dhruvpeter.github.io/blogs.core.ai/</url>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/hugo/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svelte</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/svelte/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/svelte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronjs</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/electronjs/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/electronjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/security/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

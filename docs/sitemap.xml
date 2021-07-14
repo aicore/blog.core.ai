@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/anothersampleblog/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/sampleblog/</loc>
+    <lastmod>2021-07-14T12:31:33+05:30</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/secureelectron/</loc>
+    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
+  </url><url>
     <loc>https://dhruvpeter.github.io/blogs.core.ai/categories/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
   </url><url>
     <loc>https://dhruvpeter.github.io/blogs.core.ai/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/sample/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/categories/sample/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
   </url><url>
     <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/</loc>
+    <lastmod>2021-07-14T12:31:39+05:30</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/electronjs/</loc>
+    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/security/</loc>
+    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/archives/</loc>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/search/</loc>
+  </url><url>
+    <loc>https://dhruvpeter.github.io/blogs.core.ai/series/</loc>
   </url>
 </urlset>

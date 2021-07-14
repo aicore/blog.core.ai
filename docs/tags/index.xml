@@ -4,7 +4,39 @@
     <title>Tags on core.ai tech blogs</title>
     <link>https://dhruvpeter.github.io/blogs.core.ai/tags/</link>
     <description>Recent content in Tags on core.ai tech blogs</description>
+    <image>
+      <url>https://dhruvpeter.github.io/blogs.core.ai/</url>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jul 2021 12:31:39 +0530</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sample</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/sample/</link>
+      <pubDate>Wed, 14 Jul 2021 12:31:39 +0530</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronjs</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/electronjs/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/electronjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/tags/security/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/tags/security/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

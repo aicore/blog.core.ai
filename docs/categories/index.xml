@@ -4,7 +4,21 @@
     <title>Categories on core.ai tech blogs</title>
     <link>https://dhruvpeter.github.io/blogs.core.ai/categories/</link>
     <description>Recent content in Categories on core.ai tech blogs</description>
+    <image>
+      <url>https://dhruvpeter.github.io/blogs.core.ai/</url>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jul 2021 12:31:39 +0530</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sample</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/categories/sample/</link>
+      <pubDate>Wed, 14 Jul 2021 12:31:39 +0530</pubDate>
+      
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/categories/sample/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

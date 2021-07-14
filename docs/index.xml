@@ -10,23 +10,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 12:31:39 +0530</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anothersampleblog</title>
-      <link>https://dhruvpeter.github.io/blogs.core.ai/blogs/anothersampleblog/</link>
-      <pubDate>Wed, 14 Jul 2021 12:31:39 +0530</pubDate>
+      <title>Hugo and Svelte</title>
+      <link>https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dhruvpeter.github.io/blogs.core.ai/blogs/anothersampleblog/</guid>
-      <description>Description Text.</description>
-    </item>
-    
-    <item>
-      <title>Sampleblog</title>
-      <link>https://dhruvpeter.github.io/blogs.core.ai/blogs/sampleblog/</link>
-      <pubDate>Wed, 14 Jul 2021 12:31:33 +0530</pubDate>
-      
-      <guid>https://dhruvpeter.github.io/blogs.core.ai/blogs/sampleblog/</guid>
-      <description>Description Text.</description>
+      <guid>https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/</guid>
+      <description>A comparison between Hugo and Svelte</description>
     </item>
     
     <item>

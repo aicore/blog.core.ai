@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on core.ai tech blogs</title>
-    <link>https://dhruvpeter.github.io/blogs.core.ai/blogs/</link>
-    <description>Recent content in Blogs on core.ai tech blogs</description>
+    <title>svelte on core.ai tech blogs</title>
+    <link>https://dhruvpeter.github.io/blogs.core.ai/tags/svelte/</link>
+    <description>Recent content in svelte on core.ai tech blogs</description>
     <image>
       <url>https://dhruvpeter.github.io/blogs.core.ai/</url>
       <link>https://dhruvpeter.github.io/blogs.core.ai/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dhruvpeter.github.io/blogs.core.ai/tags/svelte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo and Svelte</title>
       <link>https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/</guid>
       <description>A comparison between Hugo and Svelte</description>
-    </item>
-    
-    <item>
-      <title>SecureElectron</title>
-      <link>https://dhruvpeter.github.io/blogs.core.ai/blogs/secureelectron/</link>
-      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dhruvpeter.github.io/blogs.core.ai/blogs/secureelectron/</guid>
-      <description>A study of secure sandboxes with Electron JS</description>
     </item>
     
   </channel>

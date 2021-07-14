@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Hugo and Svelte | core.ai tech blogs</title>
+<meta name="keywords" content="hugo, svelte" />
+<meta name="description" content="A comparison between Hugo and Svelte">
+<meta name="author" content="Dhruv Eldho Peter, Tapan Manu">
+<link rel="canonical" href="https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/" />
+<link crossorigin="anonymous" href="/blogs.core.ai/assets/css/stylesheet.min.35cd0f65a15cafa92372b8313deef5960aae04b90ad722f2bbf509eb0468137e.css" integrity="sha256-Nc0PZaFcr6kjcrgxPe71lgquBLkK1yLyu/UJ6wRoE34=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/blogs.core.ai/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://dhruvpeter.github.io/blogs.core.ai/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://dhruvpeter.github.io/blogs.core.ai/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://dhruvpeter.github.io/blogs.core.ai/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://dhruvpeter.github.io/blogs.core.ai/apple-touch-icon.png">
+<link rel="mask-icon" href="https://dhruvpeter.github.io/blogs.core.ai/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.84.0" />
+<meta property="og:title" content="Hugo and Svelte" />
+<meta property="og:description" content="A comparison between Hugo and Svelte" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/" /><meta property="og:image" content="https://dhruvpeter.github.io/blogs.core.ai/"/><meta property="article:section" content="blogs" />
+<meta property="article:published_time" content="2021-07-07T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2021-07-07T00:00:00&#43;00:00" />
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://dhruvpeter.github.io/blogs.core.ai/"/>
+
+<meta name="twitter:title" content="Hugo and Svelte"/>
+<meta name="twitter:description" content="A comparison between Hugo and Svelte"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Blogs",
+      "item": "https://dhruvpeter.github.io/blogs.core.ai/blogs/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Hugo and Svelte",
+      "item": "https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Hugo and Svelte",
+  "name": "Hugo and Svelte",
+  "description": "A comparison between Hugo and Svelte",
+  "keywords": [
+    "hugo", "svelte"
+  ],
+  "articleBody": "Svelte Svelte is one of the new approaches to build and test new frameworks. Traditional frameworks like React and Vue do their work in the browser while Svelte shifts that work into a compile step that happens when you build your app.\nAdvantages  Svelte writes code that surgically updates the DOM when the state of the app changes. Web apps are fast in rendering components, compared to native react apps. Directly interacts with HTML-CSS components. Svelte converts your app into ideal JavaScript at build time, rather than interpreting your application code at run time. Hence, performance is much better. Inherits features like state,props in react.  Disadvantages  Any bugs in the code would not let the app crash down, but does not render the entire component. Prerequisite knowledge on ReactJs is needed for efficient app building.  Hugo Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Hugo takes a source directory of files and templates and uses these as input to create a complete website. Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nAdvantages  Extremely fast build times Many themes are available online for free. So creating a site for a beginner will be easy. Content files and template files are stored separate. So if a person doesn’t want to get into designing the site, he can just change the content without going into html codes. Content to be displayed is written in markdown language. So even if the user doesn’t know HTML, CSS or JS, he can create a simple site using the themes. Content files can also support HTML code, so designing can even be done through it. Users can use shortcodes, which are simple snippets inside your content files calling built-in or custom templates. They are used to avoid writing raw html code in md files. Shortcodes are reusable and can make coding easier for beginners. Supports HTML,CSS and JS. Documentation is good.  Disadvantages  Need to study lots of variables in Hugo to create complex sites. By default, the same structure that works to organize your source content is used to organize the rendered site. Passing data between pages is difficult. Hugo is good only for static data.  Comparison    Metrics Hugo Svelte     Build time It is extremely fast Faster than native react apps.   Prerequisites HTML,JS,CSS Prerequisite knowledge in ReactJS is required. Syntax is similar to Vuejs.   Beginner-friendliness It is easy for the user if only content manipulation is needed. To create templates and layouts, they need to study about Hugo variables and should understand the basic workflow. Not as friendly as beginners need to have an idea on ReactJS, but this is comparatively easier to use than React.   Data passing Passing data between pages is difficult. Props can be used to pass data between components.   Supports built in themes Lots of themes are available in Hugo. No built in theme support.Npm supports react styled components only.   Website Complexity Best for creating simple static websites. Eg: blogs Websites are dynamic. Routing could be added via react router.   Development community Hugo has good development community support. Svelte is a relatively new framework. Hence community support is only developing.   Installation and setup Easy and fast to install and setup. Easier to install via npm.   Plugin Support Hugo doesn’t have plugin support. Svelte supports plugins via npm.   Template Syntax It’s fairly non-standard and confusing for beginners. It can be modified easily for a developer. Depends mainly on Javascript and ReactJS components.   Content-Driven Hugo is great for content-driven websites. Less content driven support.   Data files supported Doesn’t support XML as a data file type. However, YAML, JSON, and CSV are supported. JSON and CSV file support   Content files supported Html and markdown Only html is supported   Debugging Debugging is not easy Not easy in svelte. Errors are left undetected.   Size Hugo is light Svelte app size is comparatively larger, since node modules are incorporated.(Developer’s perspective).    ",
+  "wordCount" : "674",
+  "inLanguage": "en",
+  "datePublished": "2021-07-07T00:00:00Z",
+  "dateModified": "2021-07-07T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Dhruv Eldho Peter"
+  }, {
+    "@type": "Person",
+    "name": "Tapan Manu"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "core.ai tech blogs",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dhruvpeter.github.io/blogs.core.ai/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: #1d1e20;
+                --entry: #2e2e33;
+                --primary: rgba(255, 255, 255, 0.84);
+                --secondary: rgba(255, 255, 255, 0.56);
+                --tertiary: rgba(255, 255, 255, 0.16);
+                --content: rgba(255, 255, 255, 0.74);
+                --hljs-bg: #2e2e33;
+                --code-bg: #37383e;
+                --border: #333;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://dhruvpeter.github.io/blogs.core.ai/" accesskey="h" title="core.ai tech blogs (Alt + H)">core.ai tech blogs</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://dhruvpeter.github.io/blogs.core.ai/archives" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dhruvpeter.github.io/blogs.core.ai/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dhruvpeter.github.io/blogs.core.ai/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dhruvpeter.github.io/blogs.core.ai/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://dhruvpeter.github.io/blogs.core.ai/">Home</a>&nbsp;»&nbsp;<a href="https://dhruvpeter.github.io/blogs.core.ai/blogs/">Blogs</a></div>
+    <h1 class="post-title">
+      Hugo and Svelte
+    </h1>
+    <div class="post-description">
+      A comparison between Hugo and Svelte
+    </div>
+    <div class="post-meta">July 7, 2021&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Dhruv Eldho Peter, Tapan Manu&nbsp;|&nbsp;<a href="https://github.com/aicore/blogs.core.ai/tree/main/content/blogs/hugo-and-svelte.md" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
+</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <div class="details">Table of Contents</div>
+        </summary>
+        <div class="inner"><ul>
+                <li>
+                    <a href="#svelte" aria-label="Svelte">Svelte</a><ul>
+                        
+                <li>
+                    <a href="#advantages" aria-label="Advantages">Advantages</a></li>
+                <li>
+                    <a href="#disadvantages" aria-label="Disadvantages">Disadvantages</a></li></ul>
+                </li>
+                <li>
+                    <a href="#hugo" aria-label="Hugo">Hugo</a><ul>
+                        
+                <li>
+                    <a href="#advantages-1" aria-label="Advantages">Advantages</a></li>
+                <li>
+                    <a href="#disadvantages-1" aria-label="Disadvantages">Disadvantages</a></li></ul>
+                </li>
+                <li>
+                    <a href="#comparison" aria-label="Comparison">Comparison</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h1 id="svelte">Svelte<a hidden class="anchor" aria-hidden="true" href="#svelte">#</a></h1>
+<p>Svelte is one of the new approaches to build and test new frameworks. Traditional frameworks like React and Vue do their work in the browser while Svelte shifts that work into a compile step that happens when you build your app.</p>
+<h2 id="advantages">Advantages<a hidden class="anchor" aria-hidden="true" href="#advantages">#</a></h2>
+<ul>
+<li>Svelte writes code that surgically updates the DOM when the state of the app changes.</li>
+<li>Web apps are fast in rendering components, compared to native react apps.</li>
+<li>Directly interacts with HTML-CSS components.</li>
+<li>Svelte converts your app into ideal JavaScript at build time, rather than interpreting your application code at run time. Hence, performance is much better.</li>
+<li>Inherits features like state,props in react.</li>
+</ul>
+<h2 id="disadvantages">Disadvantages<a hidden class="anchor" aria-hidden="true" href="#disadvantages">#</a></h2>
+<ul>
+<li>Any bugs in the code would not let the app crash down, but does not render the entire component.</li>
+<li>Prerequisite knowledge on ReactJs is needed for efficient app building.</li>
+</ul>
+<h1 id="hugo">Hugo<a hidden class="anchor" aria-hidden="true" href="#hugo">#</a></h1>
+<p>Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content.
+Hugo takes a source directory of files and templates and uses these as input to create a complete website.
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
+<h2 id="advantages-1">Advantages<a hidden class="anchor" aria-hidden="true" href="#advantages-1">#</a></h2>
+<ul>
+<li>Extremely fast build times</li>
+<li>Many themes are available online for free. So creating a site for a beginner will be easy.</li>
+<li>Content files and template files are stored separate. So if a person doesn&rsquo;t want to get into designing the site, he can just change the content without going into html codes.</li>
+<li>Content to be displayed is written in markdown language. So even if the user doesn’t know HTML, CSS or JS, he can create a simple site using the themes.</li>
+<li>Content files can also support HTML code, so designing can even be done through it.</li>
+<li>Users can use shortcodes, which are simple snippets inside your content files calling built-in or custom templates. They are used to avoid writing raw html code in md files. Shortcodes are reusable and can make coding easier for beginners.</li>
+<li>Supports HTML,CSS and JS.</li>
+<li>Documentation is good.</li>
+</ul>
+<h2 id="disadvantages-1">Disadvantages<a hidden class="anchor" aria-hidden="true" href="#disadvantages-1">#</a></h2>
+<ul>
+<li>Need to study lots of variables in Hugo to create complex sites.</li>
+<li>By default, the same structure that works to organize your source content is used to organize the rendered site.</li>
+<li>Passing data between pages is difficult.</li>
+<li>Hugo is good only for static data.</li>
+</ul>
+<h1 id="comparison">Comparison<a hidden class="anchor" aria-hidden="true" href="#comparison">#</a></h1>
+<table>
+<thead>
+<tr>
+<th>Metrics</th>
+<th>Hugo</th>
+<th>Svelte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Build time</td>
+<td>It is extremely fast</td>
+<td>Faster than native react apps.</td>
+</tr>
+<tr>
+<td>Prerequisites</td>
+<td>HTML,JS,CSS</td>
+<td>Prerequisite knowledge in ReactJS is required. Syntax is similar to Vuejs.</td>
+</tr>
+<tr>
+<td>Beginner-friendliness</td>
+<td>It is easy for the user if only content manipulation is needed. To create templates and layouts, they need to study about Hugo variables and should understand the basic workflow.</td>
+<td>Not as friendly as beginners need to have an idea on ReactJS, but this is comparatively easier to use than React.</td>
+</tr>
+<tr>
+<td>Data passing</td>
+<td>Passing data between pages is difficult.</td>
+<td>Props can be used to pass data between components.</td>
+</tr>
+<tr>
+<td>Supports built in themes</td>
+<td>Lots of themes are available in Hugo.</td>
+<td>No built in theme support.Npm supports react styled components only.</td>
+</tr>
+<tr>
+<td>Website Complexity</td>
+<td>Best for creating simple static websites. Eg: blogs</td>
+<td>Websites are dynamic. Routing could be added via react router.</td>
+</tr>
+<tr>
+<td>Development community</td>
+<td>Hugo has good development community support.</td>
+<td>Svelte is a relatively new framework. Hence community support is only developing.</td>
+</tr>
+<tr>
+<td>Installation and setup</td>
+<td>Easy and fast to install and setup.</td>
+<td>Easier to install via npm.</td>
+</tr>
+<tr>
+<td>Plugin Support</td>
+<td>Hugo doesn&rsquo;t have plugin support.</td>
+<td>Svelte supports plugins via npm.</td>
+</tr>
+<tr>
+<td>Template Syntax</td>
+<td>It&rsquo;s fairly non-standard and confusing for beginners.</td>
+<td>It can be modified easily for a developer. Depends mainly on Javascript and ReactJS components.</td>
+</tr>
+<tr>
+<td>Content-Driven</td>
+<td>Hugo is great for content-driven websites.</td>
+<td>Less content driven support.</td>
+</tr>
+<tr>
+<td>Data files supported</td>
+<td>Doesn&rsquo;t support XML as a data file type. However, YAML, JSON, and CSV are supported.</td>
+<td>JSON and CSV file support</td>
+</tr>
+<tr>
+<td>Content files supported</td>
+<td>Html and markdown</td>
+<td>Only html is supported</td>
+</tr>
+<tr>
+<td>Debugging</td>
+<td>Debugging is not easy</td>
+<td>Not easy in svelte. Errors are left undetected.</td>
+</tr>
+<tr>
+<td>Size</td>
+<td>Hugo is light</td>
+<td>Svelte app size is comparatively larger, since node modules are incorporated.(Developer&rsquo;s perspective).</td>
+</tr>
+</tbody>
+</table>
+
+
+  </div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://dhruvpeter.github.io/blogs.core.ai/tags/hugo/">hugo</a></li>
+      <li><a href="https://dhruvpeter.github.io/blogs.core.ai/tags/svelte/">svelte</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://dhruvpeter.github.io/blogs.core.ai/blogs/secureelectron/">
+    <span class="title">Next Page »</span>
+    <br>
+    <span>SecureElectron</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    <footer class="footer">
+    <span>&copy; 2021 <a href="https://dhruvpeter.github.io/blogs.core.ai/">core.ai tech blogs</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+            <path d="M12 6H0l6-6z" />
+        </svg>
+    </button>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+    menu.onscroll = function () {
+        localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

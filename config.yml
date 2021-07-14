@@ -86,7 +86,7 @@ params: # Give default parameters
       url: "https://discord.gg/GaBDAK7BRM"
 
   editPost: # Button to edit content. On clicling it will redirect to git repo
-    URL: "https://github.com/aicore/blogs.core.ai/content"
+    URL: "https://github.com/aicore/blogs.core.ai/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

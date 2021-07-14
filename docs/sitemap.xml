@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/hugo-and-svelte/</loc>
+    <loc>https://blog.core.ai/blogs/hugo-and-svelte/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/secureelectron/</loc>
+    <loc>https://blog.core.ai/blogs/secureelectron/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/blogs/</loc>
+    <loc>https://blog.core.ai/blogs/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/categories/</loc>
+    <loc>https://blog.core.ai/categories/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/categories/comparison/</loc>
+    <loc>https://blog.core.ai/categories/comparison/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/</loc>
+    <loc>https://blog.core.ai/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/hugo/</loc>
+    <loc>https://blog.core.ai/tags/hugo/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/svelte/</loc>
+    <loc>https://blog.core.ai/tags/svelte/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/</loc>
+    <loc>https://blog.core.ai/tags/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/electronjs/</loc>
+    <loc>https://blog.core.ai/tags/electronjs/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/tags/security/</loc>
+    <loc>https://blog.core.ai/tags/security/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/archives/</loc>
+    <loc>https://blog.core.ai/archives/</loc>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/search/</loc>
+    <loc>https://blog.core.ai/search/</loc>
   </url><url>
-    <loc>https://dhruvpeter.github.io/blogs.core.ai/series/</loc>
+    <loc>https://blog.core.ai/series/</loc>
   </url>
 </urlset>

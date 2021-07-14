@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://dhruvpeter.github.io/blogs.core.ai/sitemap.xml
+Sitemap: https://blog.core.ai/sitemap.xml

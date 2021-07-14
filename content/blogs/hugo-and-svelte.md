@@ -83,3 +83,9 @@ Hugo is for people who want to hand code their own website without worrying abou
 | Content files supported | Html and markdown | Only html is supported |
 | Debugging | Debugging is not easy  | Not easy in svelte. Errors are left undetected. |
 | Size | Hugo is light | Svelte app size is comparatively larger, since node modules are incorporated.(Developer's perspective). |
+
+**Authors:**
+
+[Dhruv Eldho Peter](https://github.com/dhruvpeter), 5th Semester student, Comp Science and Engineering, College of Engineering Trivandrum
+
+[Tapan Manu](https://github.com/TapanManu), 5th Semester student, Comp Science and Engineering, TKM College of Engineering  Trivandrum

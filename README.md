@@ -1,4 +1,4 @@
-# blogs.core.ai
+# blog.core.ai
 
 core.ai tech blogs
 
